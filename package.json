@@ -1,6 +1,6 @@
 {
   "name": "react-reflorp",
-  "version": "0.17.0",
+  "version": "0.17.901",
   "description": "Basically a simple ORM using React Refetch as a backend, but the data is stored in the Redux store.",
   "main": "./lib/index.js",
   "scripts": {
@@ -66,7 +66,7 @@
     "invariant": "^2.0.0",
     "lodash.debounce": "^4.0.0",
     "react-redux": "^4.0.0",
-    "react-refetch": "^1.0.0-beta.4",
+    "react-refetch": "git+https://github.com/FLM/react-refetch.git#22fef5c",
     "redux": "^2.0.0 || ^3.0.0",
     "warning": "^2.1.0"
   },
